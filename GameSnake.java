@@ -21,7 +21,7 @@ public class GameSnake {
     final int START_SNAKE_SIZE = 6;
     final int START_SNAKE_X = 10;
     final int START_SNAKE_Y = 10;
-    final int SHOW_DEALAY = 150;
+    final int SHOW_DEALAY = 150;  // 4673
     final int LEFT = 37;
     final int UP = 38;
     final int RIGHT = 39;
